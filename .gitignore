@@ -1,0 +1,12 @@
+.DS_store
+/assets
+/data
+/cache
+/output
+/cache
+/log
+/huggingface
+.venv
+**/.vscode
+**/__pycache__
+local_config.ini
