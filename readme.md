@@ -1,4 +1,7 @@
-# Combating Knowledge Corruption in Agent Systems: A Byzantine-Tolerant Secure Collaborative RAG Framework
+# SCR 
+
+[![license: MIT](https://img.shields.io/badge/license-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![DOI](https://zenodo.org/badge/1136083174.svg)](https://doi.org/10.5281/zenodo.18276179)
 
 This repository provides the SCR code for the method proposed in:
 
